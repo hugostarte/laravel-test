@@ -1,0 +1,24 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    width: 100%;
+    text-align: center;
+    background: rgb(1, 33, 87);
+    padding: 20px 50px;
+}
+.navbar a { 
+    padding: 20px 50px;
+    font-size: 1em;
+    text-decoration: none;
+    color: white;s
+}
+.navbar a:hover { 
+    text-decoration:underline;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
